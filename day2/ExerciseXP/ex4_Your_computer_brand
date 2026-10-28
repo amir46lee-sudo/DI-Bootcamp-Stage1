@@ -1,0 +1,2 @@
+computer_brand = "dell"
+print(f"I have a {computer_brand} computer")
